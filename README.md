@@ -105,6 +105,6 @@ This project demonstrates the ability to design a real-world transactional datab
 ## Author
 
 Prarthana A Charankar  
-Data & SQL Analyst | Ex-TCS  
+SQL Developer | Data Analyst | Ex-TCS 
 
 LinkedIn: https://www.linkedin.com/in/prarthanac
